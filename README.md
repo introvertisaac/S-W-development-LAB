@@ -1,6 +1,6 @@
+<h1 align="center">TECHNICAL UNIVERSITY OF KENYA</h1>
 <h3 align="center">STUDENT SERVICES MANAGEMENT AND TICKETING SYS.</h3>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
