@@ -1,6 +1,21 @@
 <h1 align="center">TECHNICAL UNIVERSITY OF KENYA</h1>
 <h3 align="center">STUDENT SERVICES MANAGEMENT AND TICKETING SYS.</h3>
 
+<p>This system is build with a focus on microservice architecture.
+The modules implemented are:
+1.	User management
+2.	Service Request Module
+3.	Acknowledgement
+4.	Response
+5.	Booking and escalation
+6.	Report generation
+
+The implementation focuses on MERN stack technologies and cloud solutions i.e AWS
+
+<p/>
+
+
+
 <p align="left">
 </p>
 
