@@ -8,7 +8,7 @@ The modules implemented are:
 3.	Acknowledgement
 4.	Response
 5.	Booking and escalation
-6.	Report generation
+
 
 The implementation focuses on MERN stack technologies and cloud solutions i.e AWS
 
